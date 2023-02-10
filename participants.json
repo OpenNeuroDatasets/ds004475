@@ -13,6 +13,6 @@
     "Description": "Participant group label"
   },
   "Sex": {
-    "Description": ""
+    "Description": "Participant sex"
   }
 }
