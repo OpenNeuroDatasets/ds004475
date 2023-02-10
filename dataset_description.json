@@ -9,5 +9,9 @@
     "Name": "",
     "License": "CC0",
     "BIDSVersion": "1.1.1",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004475.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004475.v1.0.0",
+    "Funding": [
+        "NIH R01-NS104772",
+        "T32-NS082128"
+    ]
 }
