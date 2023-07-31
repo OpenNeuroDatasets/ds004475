@@ -1,0 +1,21 @@
+{
+    "ReferencesAndLinks": [
+        "“Electrocortical Activity Correlated with Locomotor Adaptation during Split-belt Treadmill Walking” (2023; submitted)"
+    ],
+    "Authors": [
+        "Noelle A. Jacobsen",
+        "Daniel P. Ferris"
+    ],
+    "Name": "",
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004475.v1.0.1",
+    "Funding": [
+        "NIH R01-NS104772",
+        "T32-NS082128"
+    ],
+    "Acknowledgements": "Noelle A. Jacobsen and Daniel P. Ferris (2023). Mobile EEG split-belt walking study. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds004475.v1.0.0",
+    "EthicsApprovals": [
+        "IRB201701603"
+    ]
+}
